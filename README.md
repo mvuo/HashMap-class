@@ -31,6 +31,7 @@
 
 ## Setup
 - IDE needed to run python code. Link to pyCharm provided. https://www.jetbrains.com/pycharm/
+- Download each file and run the file to see the test cases. Docstrings are provided for each method describing the functionality.
 
 
 ## Usage
